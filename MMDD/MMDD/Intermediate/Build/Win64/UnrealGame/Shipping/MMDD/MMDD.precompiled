@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MMDD\\Module.MMDD.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MMDD\\MMDD.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MMDD\\MyActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MMDD\\MyBlueprintFunctionLibrary.cpp.obj"
+	]
+}

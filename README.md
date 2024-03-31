@@ -14,3 +14,7 @@ init()  		初始化连接，需输入服务端地址
 connect()       发起连接，连接成功屏幕会有提示
 send()		发送数据
 close()   		关闭连接 
+
+
+
+![image](https://github.com/mmddyck/UE5Plugins/blob/main/%E8%93%9D%E5%9B%BE%E8%8A%82%E7%82%B9%E9%A2%84%E8%A7%88.png)

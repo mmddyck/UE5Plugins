@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"..\\..\\..\\x64\\UnrealGame\\Development\\MMDD\\Module.MMDD.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Development\\MMDD\\MMDD.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Development\\MMDD\\MyActor.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Development\\MMDD\\MyBlueprintFunctionLibrary.cpp.obj"
-	]
-}
